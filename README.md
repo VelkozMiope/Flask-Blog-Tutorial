@@ -3,11 +3,12 @@
 
 ## Progresso:
 
-O projeto ainda se encontra em desenvolvimento, na sua fase inicial.
+A base do projeto está completa, aberto para novas funcionalidades.
 
-- [] Terminar o projeto geral
-- [] Montar os testes
+- [x] Terminar o projeto geral
+- [x] Montar os testes
 - [] (Aprender como e) Montar a documentação
+- [] Funcionalidades extras
 
 ## Tecnologias utilizadas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -19,14 +20,18 @@ O projeto ainda se encontra em desenvolvimento, na sua fase inicial.
 ## Iniciando o blog:
 
 Você vai precisar ter o Python instalado na sua máquina
-Instale as dependências com:
+Crie um novo ambiente virtual:
 ```
-py -m pip install -r requirements.txt
+py -m venv .venv
+```
+
+Para instalar o projeto, utilize:
+
+```
+pip install -e .
 ```
 
 No momento, para iniciar a aplicação use:
 ```
 flask --app flaskr run
 ```
-
-_WIP_
