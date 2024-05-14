@@ -7,8 +7,8 @@ A base do projeto está completa, aberto para novas funcionalidades.
 
 - [x] Terminar o projeto geral
 - [x] Montar os testes
-- [] (Aprender como e) Montar a documentação
-- [] Funcionalidades extras
+- [ ] (Aprender como e) Montar a documentação
+- [ ] Funcionalidades extras
 
 ## Tecnologias utilizadas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
