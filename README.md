@@ -21,6 +21,7 @@ A base do projeto está completa, aberto para novas funcionalidades.
 ## Iniciando o blog:
 
 Você vai precisar ter o Python instalado na sua máquina
+
 Crie um novo ambiente virtual:
 ```
 py -m venv .venv
