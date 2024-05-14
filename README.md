@@ -1,6 +1,7 @@
 # Flaskr blog
 > Projeto de blog seguindo o tutorial do Flask, com o objetivo de aprender mais sobre o framework.
 
+[Flask tutorial - Flaskr blog](https://flask.palletsprojects.com/en/3.0.x/tutorial/)
 ## Progresso:
 
 A base do projeto está completa, aberto para novas funcionalidades.
